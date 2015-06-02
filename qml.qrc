@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>InnerRing.qml</file>
+        <file>Speedometer.qml</file>
+        <file>SpeedNeedle.qml</file>
+        <file>KWNeedle.qml</file>
+        <file>pics/Tacho.png</file>
+        <file>LElementsModel.qml</file>
+        <file>LeftElement.qml</file>
+        <file>pics/Tacho_Mitte.png</file>
+        <file>pics/Background.png</file>
+        <file>pics/Trips.png</file>
+        <file>pics/Tile.png</file>
+        <file>pics/Street.png</file>
+        <file>pics/Range.png</file>
+        <file>pics/Numbers.png</file>
+        <file>pics/Navi.png</file>
+        <file>pics/Music.png</file>
+        <file>pics/Media.png</file>
+        <file>pics/Lade-Balken.png</file>
+        <file>pics/Energy.png</file>
+        <file>pics/Empty.png</file>
+        <file>pics/Efficiency.png</file>
+        <file>RightElement.qml</file>
+        <file>pics/call.png</file>
+    </qresource>
+</RCC>
